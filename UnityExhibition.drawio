@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T14:08:14.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" version="17.4.6" etag="p-IKfju7WJC7dxwNaFw5" type="github"><diagram id="XKHxtksH3JEw9j8Yfwct">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T14:09:29.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="Me4-Z29FJeezKAXUbhc8" version="17.4.6" type="github">
+  <diagram id="XKHxtksH3JEw9j8Yfwct" name="Page-1">
+    <mxGraphModel dx="2300" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-840" y="30" width="650" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-2" value="&lt;span&gt;ผมสนใจการเขียนโปรแกรม เพราะ คอมพิวเตอร์สามารถทำสิ่งต่างๆ ได้หลากหลายและซับซ้อนกว่ารูปวาดได้ อย่างไรก็ตาม ช่วงนี้ผมเขียนโปรแกรมแบบไร้เป้าหมาย เนื้องจาก ผมทดลองIdeaหลายๆ อย่าง และทดลองใช้Technology หลายๆ แบบ&lt;br&gt;&lt;br&gt;ผมเริ่มจากสนใจAI ที่ช่วยผมวาดรูป แต่ งานดังกล่าวเป็นงานที่ขนาดใหญ่จนกระทั่งหาจุดเริ่มต้นที่ชัดเจนไม่ค่อยได้&amp;nbsp;&lt;br&gt;&lt;br&gt;ผมสนใจCellular Automata ที่ใช้เป็นสัญญาลักษณ์ไว้สื่อความหมายในผลงานศิลปะของผม อย่างไรก็ตาม ผมรู้สึกว่าSimulation เหล่านี้ไม่มีจุดประสงค์ในการสร้างขึ้นและขาดความเชื่อโยงระหว่างตัวมันเองกับความหมายที่ผมตั่งขึ้น ผมเองก็มีIdeaว่าอยากทำSimulation ที่เกี่ยวกับ วิชา คณิตศาสตร์ Physic, Chemistry, ชีววิทยา และสาขาอื่นๆ แต่สาขาเหล่านั้นต้องอาศัยความรู้เฉพาะทางและส่วนใหญ่มักจะเป็นเรื่องไกลตัวผม&lt;br&gt;&lt;br&gt;ผมจึงคิดที่จะสร้างPuzzle หลายๆ แบบเพื่อที่จะฝึกทักษะด้านOOP และ Data Structure &amp;amp; Algorithm ด้วยความเชื่อที่ว่า เดี๋ยวผมจะหาIdeaในการเขียนCodeที่น่าสนใจมากขึ้นเอง ผมหยุดทำIdeaนี้เพราะ ผมรู้สึกว่าสิ่งที่คิดจะทำนั้นค่อนข้างไร้จุดหมายและไม่ค่อยน่าสนใจ&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="5j2oh7pwBDOxIy2gTQvh-1">
+          <mxGeometry y="100" width="630" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-3" value="วันนี้ผมมีIdeaว่าอยากสร้าง ทิวทัศน์(View),สถาปัตยกรรม(Architecture),พิพิธภัณฆ์(Museum),หอศิลป์(Art Gallery) และ/หรือ สถานที่(Site) จำลองด้วยUnity เพื่อใช้นำเสนอผลงานศิลปะของตนเอง เนื่องจากผมสามารถใส่เรื่องราวต่างๆ เช่น คุณสมบัติของวัตถุ การสึกหรอของหิน การสะท้องแสงของวัตถุ ดวงดาวบนท้องฟ้า ฤดูกาล ภาษาเขียนของคนท้องถิ่น การแปรเปลี่ยนทางธรณีวิทยา วิทยาศาสตร์สาขาอื่นๆ ที่เกี่ยวข้อง ประวัติศาสตร์จำลอง วิธีคิดกับความเชื่อของผู้คนในอารยธรรมต่างๆ ฯลฯ ลงในผลงานได้ &lt;br&gt;ผมสามารถใส่Ideaต่างๆ ได้ลงในผลงานนี้มากกว่าผลงานศิลปะ2มิติ เพราะผมสามารถจำลองเวลาได้ และผลงานนี้สามารถตอบสนองกับผู้ชมได้ นอกเหนือจากนี้ สภาพแวดล้อมจำลองมีผลต่อวัฒนธรรมจำลองในผลงานนี้ด้วย&lt;br&gt;&lt;br&gt;&lt;strike&gt;ผลงานนี้ประกอบด้วย๒ส่วนคือ&lt;br&gt;1. ส่วนพื้นฐานต่างๆ&lt;br&gt;2. ส่วนที่Userสามารถแต่งเติมได้ &lt;br&gt;ประมาณว่าUserสามารถสร้างสรรค์สิ่งต่างๆ ได้บนพื้นฐานขององค์ประกอบต่างๆ ในGame เหมือนกับGame Spore, The Sim, RPG maker etc.&lt;br&gt;&lt;br&gt;ในอนาคต ผมอาจใช้ผลงานนี้ประยุกต์กับEvolution Stimulator, Speculative History และ/หรือ Animation&lt;br&gt;ในอนาคต ผมอาจทำผลงานเหล่านี้เพื่อทำเป็นAsset ไว้ขายให้กับบริษัทGame, Animation และ/หรือ งานContent&lt;/strike&gt;&lt;br&gt;&lt;br&gt;ผมชอบผลงานนี้เพราะ ผมชอบสัมผัสบรรยากาศรอบตัวขณะเดินเล่น ผมสนใจวิทยาศาสตร์ ผมชอบวิวทิวทัศน์ และ ผมสนใจที่จะหาทางถ่ายทอดเรื่องราว ด้วยวิธีการใหม่ๆ" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="5j2oh7pwBDOxIy2gTQvh-1">
+          <mxGeometry y="290" width="630" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-4" value="Keyword&lt;br&gt;1. Geological View&lt;br&gt;2. Architecture Lego //สร้างสถาปัตยกรรมแบบการต่อLego&lt;br&gt;&lt;strike&gt;3. Animation&lt;br&gt;4. Speculative Biology&lt;/strike&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="5j2oh7pwBDOxIy2gTQvh-1">
+          <mxGeometry y="690" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-5" value="&lt;br&gt;&lt;span&gt;แน่นอนว่าผลงานทั้งหมดนี้ก็มีคนทำอยู่แล้ว เพียงแต่สิ่งที่คนอื่นอาจไม่ตรงกับความต้องการของผม100% ผมคงนำผลงานของคนอื่นมาต่อยอด แล้วทำเป็นDocumentation ของตนเอง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="5j2oh7pwBDOxIy2gTQvh-1">
+          <mxGeometry y="590" width="630" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-6" value="&lt;span&gt;เหตุผลหนึ่งที่ผมหยุดวาดรูปแล้วไปเขียนโปรแกรม เพราะรูปวาดเป็นสื่อ๒มิติที่ไม่สามารถขยับและตอบสนองกับผู้ชมได้ ผมจึงไม่สามารถใส่ไอเดียที่ซับซ้อนขึ้น ลงในรูปวาดได้ นอกเหนือจากนี้สีทั้งหมดที่มนุษย์ทั่วๆ ไป เห็นเกิดขึ้นจากการผสมของสีแดง เขียน และ น้ำเงินในอัตราส่วนที่แตกต่างกัน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="5j2oh7pwBDOxIy2gTQvh-1">
+          <mxGeometry y="30" width="630" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-7" value="Similar Project&lt;br&gt;1. Lego&lt;br&gt;2. Minecraft&lt;br&gt;3. Spore&lt;br&gt;4. The Sims&lt;br&gt;5. Sebastian Lague&lt;br&gt;6.&amp;nbsp;Codex Seraphinianus&lt;br&gt;7. Two Minutes Paper, Simulating Visual World&lt;br&gt;8. ..." style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="5j2oh7pwBDOxIy2gTQvh-1">
+          <mxGeometry y="810" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-8" value="Mon25thApr2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5j2oh7pwBDOxIy2gTQvh-1">
+          <mxGeometry x="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5j2oh7pwBDOxIy2gTQvh-9" value="คำแนะนำอื่นๆ&lt;br&gt;1. ใช้Technologyที่มีคนใช้จำนวนมาก" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="5j2oh7pwBDOxIy2gTQvh-1">
+          <mxGeometry x="360" y="690" width="290" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
